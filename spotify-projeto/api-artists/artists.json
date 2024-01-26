@@ -1,0 +1,64 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 3,
+      "name": "WILLOW",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab6772690000dd22f6618ac63f3dff16221cdcb3"
+    },
+    {
+      "id": 4,
+      "name": "NewJeans",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761670000ecd4ba1da27f4a6c7b2a837c82ea"
+    },
+    {
+      "id": 5,
+      "name": "JENNIE",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761670000ecd4e304e639d93425ffeecda0d6"
+    },
+    {
+      "id": 6,
+      "name": "DEAN",
+      "genre": "K-R&B",
+      "urlImg": "https://i.scdn.co/image/ab6761670000ecd48ed4c4b17e8e646d56b3fc44"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    },
+    {
+      "id": 8,
+      "name": "BIBI",
+      "genre": "K-R&B",
+      "urlImg": "https://i.scdn.co/image/ab6761670000ecd4828ef2f22aa0198082788ed4"
+    },
+    {
+      "id": 9,
+      "name": "Beyoncé",
+      "genre": "R&B",
+      "urlImg": "https://i.scdn.co/image/8ce3e8ae21481b60e3fb2604384b82175a949603"
+    },
+    {
+      "id": 10,
+      "name": "aespa",
+      "genre": "K-Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761670000ecd44894a2eb4b7a23838358757d"
+    }
+  ]
+}
